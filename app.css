@@ -33,6 +33,7 @@ section {
     width: 100%;
     height: 300vh;
     overflow: hidden;
+    overflow: hidden;
 }
 .title{
     padding-left: 52px;
